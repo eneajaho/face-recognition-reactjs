@@ -6,7 +6,7 @@ const rankStyle = {
 }
 
 const Logo = () => {
-  return <div style={rankStyle}>Hello Enea, your rank is #5</div>
+  return <div style={rankStyle} />
 }
 
 export default Logo
